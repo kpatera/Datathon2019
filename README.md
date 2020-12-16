@@ -1,1 +1,2 @@
-# Datathon2019
+# FirstGreekHealthDatathon
+Part of the code for the our participation that won 1st price in the competition
